@@ -36,7 +36,7 @@ If you are located in the European Economic Area (EEA), you possess specific dat
 
 ### 5. Developer Contact Details
 For questions, support, or data access requests, please contact:
-* **Email:** support@clozeanki.com
+* **Email:** clozanki@gmail.com
 * **Company Name:** ClozeAnki
 
 ---
